@@ -1,0 +1,75 @@
+.table-container {
+    display: flex;
+}
+
+.table-content {
+    flex: 1;
+    font-family: Arial;
+    border-collapse: collapse;
+    min-width: 800px;
+    font-size: 16px;
+    overflow: hidden;
+    margin: 40px 0px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    width: 1200px;
+}
+
+.table-content thead {
+    text-align: left;
+    background-color: black;
+    color: white;
+}
+
+.table-content th,
+.table-content td {
+    padding: 14px 10px;
+}
+
+.col-roll-number{
+    text-align: center;
+}
+
+.head-2-col th{
+    padding: 8px 10px;
+}
+
+.sub-col-roll-number{
+    border-top: 1px solid white;
+}
+
+.table-content tbody tr {
+    border-bottom: 1px solid gray;
+}
+
+.table-content tbody td {
+    border-right: 1px solid gray;
+    border-left: 1px solid gray;
+}
+
+.table-content thead th {
+    border-right: 1px solid white;
+    border-left: 1px solid white;
+}
+
+.edit-icon,
+.remove-icon{
+    width: 16px;
+}
+
+.edit-button-container,
+.remove-button-container {
+    display: flex;
+    flex-direction: row;
+    column-gap: 10px;
+    align-items: center;
+}
+
+button {
+    font-family: Arial;
+    padding: 8px 12px; 
+    background-color: gray;
+    border: none;
+    color: white;
+    border-radius: 3px;
+    margin-right: 8px;
+}
