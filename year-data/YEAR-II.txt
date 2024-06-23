@@ -1,0 +1,259 @@
+---> YEAR - II
+
+----- CSE (Artifical Intelligence & Machine Learning) -----
+
+-> 22BS2115	Mathematical and Statistical Foundations
+
+-> 22CS2111	Data Structures
+
+-> 22CS2112	Computer Organization and Architecture
+	
+-> 22AM2111	Software Engineering
+
+-> 22AM2112	Operating Systems
+	
+-> 22MC0003	Constitution of India
+
+-> 22BS2211	Discrete Mathematics
+	
+-> 22AM2211	Automata Theory and Compiler Design
+	
+-> 22CS2212	Database Management Systems
+
+-> 22AM2212	Introduction to Artificial Intelligence
+	
+-> 22AM2213	Object Oriented Programming through Java
+
+----- COMPUTER SCIENCE & ENGINEERING -----
+
+-> 22EC2117	Digital Electronics
+	
+-> 22CS2111	Data Structures
+	
+-> 22BS2114	Computer Oriented Statistical Methods
+	
+-> 22CS2112	Computer Organization and Architecture
+	
+-> 22CS2113	Object Oriented Programming through Java
+
+-> 22BS2211	Discrete Mathematics
+
+-> 22MB2211	Business Economics & Financial Analysis
+
+-> 22CS2211	Operating Systems
+	
+-> 22CS2212	Database Management Systems
+	
+-> 22CS2213	Software Engineering
+
+-> 22MC0003	Constitution of India
+
+----- CSE (DATA SCIENCE) -----
+
+-> 22EC2117	Digital Electronics
+	
+-> 22CS2111	Data Structures
+	
+-> 22BS2114	Computer Oriented Statistical Methods
+	
+-> 22CS2112	Computer Organization and Architecture
+	
+-> 22CS2113	Object Oriented Programming through Java
+
+-> 22MC0004	Gender Sensitization 
+
+-> 22BS2211	Discrete Mathematics
+
+-> 22MB2211	Business Economics & Financial Analysis
+
+-> 22CS2211	Operating Systems
+	
+-> 22CS2212	Database Management Systems
+	
+-> 22CS2213	Software Engineering
+
+-> 22MC0003	Constitution of India
+
+----- CSE (CYBER SECURITY) -----
+
+-> 22EC2117	Digital Electronics
+	
+-> 22CS2111	Data Structures
+	
+-> 22BS2114	Computer Oriented Statistical Methods
+	
+-> 22CS2112	Computer Organization and Architecture
+	
+-> 22CS2113	Object Oriented Programming through Java
+
+-> 22MC0004	Gender Sensitization 
+
+-> 22BS2211	Discrete Mathematics
+
+-> 22MB2211	Business Economics & Financial Analysis
+
+-> 22CS2211	Operating Systems
+	
+-> 22CY2212	Computer Networks
+	
+-> 22CS2213	Software Engineering
+
+-> 22MC0003	Constitution of India
+
+----- COMPUTER SCIENCE & BUSINESS SYSTEM -----
+
+-> 22EC2117	Digital Electronics
+	
+-> 22CS2111	Data Structures
+	
+-> 22BS2114	Computer Oriented Statistical Methods
+	
+-> 22CS2112	Computer Organization and Architecture
+	
+-> 22CS2113	Object Oriented Programming through Java
+
+-> 22MC0004	Gender Sensitization 
+
+-> 22BS2211	Discrete Mathematics
+
+-> 22MB2211	Business Economics & Financial Analysis
+
+-> 22CS2211	Operating Systems
+	
+-> 22CS2212	Database Management Systems
+	
+-> 22CS2213	Software Engineering
+
+-> 22MC0003	Constitution of India
+
+----- INFORMATION TECHNOLOGY -----
+
+-> 22EC2117	Digital Electronics 
+
+-> 22CS2111	Data structures 
+
+-> 22BS2114	Computer oriented statistical methods
+	
+-> 22IT2111	Computer organization and microprocessor
+	
+-> 22IT2112	Introduction to IoT
+
+-> 22MC0004	Gender Sensitization
+
+-> 22BS2211	Discrete Mathematics
+	
+-> 22MB2211	Business Economics & Financial Analysis
+	
+-> 22CS2211	Operating Systems
+	
+-> 22CS2212	Database Management Systems
+	
+-> 22IT2211	Java Programming
+	
+-> 22MC0003	Constitution of India
+
+----- CIVIL ENGINEERING -----
+
+-> 22BS2111	Probability and Statistics
+	
+-> 22CE2112	Building Materials, Construction and Planning
+	
+-> 22CE2113	Engineering Geology
+	
+-> 22CE2114	Strength of Materials – I
+	
+-> 22CE2115	Fluid Mechanics
+
+-> 22MC0003	Constitution of India
+
+-> 22EE2216	Basic Electrical and Electronics Engineering
+	
+-> 22CE2211	Concrete Technology
+	
+-> 22CE2212	Strength of Materials – II
+	
+-> 22CE2213	Hydraulics and Hydraulics Machinery
+	
+-> 22CE2214	Structural Analysis - I
+
+----- ECE ----- 
+
+-> 22EC2111	Analog Circuits
+	
+-> 22EC2112	Network Analysis and Synthesis
+	
+-> 22EC2113	Digital Logic Design
+	
+-> 22EC2114	Signals and Systems
+	
+-> 22EC2115	Probability Theory and Stochastic Processes
+
+-> 22MC0003	Constitution of India
+
+-> 22BS2213	Numerical Methods and Complex Variables
+	
+-> 22EC2211	Electromagnetic Fields and Transmission Lines
+	
+-> 22EC2212	Analog and Digital Communications
+	
+-> 22EC2213	Linear and Digital IC Applications
+	
+-> 22EC2214	Electronic Circuit Analysis
+
+----- ME ----- 
+
+-> 22BS2112	Probability and Statistics for Complex variables
+	
+-> 22ME2111	Mechanics of Solids
+	
+-> 22ME2112	Metallurgy & Material Science
+	
+-> 22ME2113	Production Technology
+	
+-> 22ME2114	Thermodynamics
+
+-> 22MC0003	Constitution of India
+
+-> 22EE2216	Basic Electrical and Electronics Engineering
+	
+-> 22ME2211	Kinematics of Machinery
+	
+-> 22ME2212	Fluid Mechanics & Hydraulics Machines
+	
+-> 22ME2213	IC Engines and Gas Turbines
+	
+-> 22ME2214	Instrumentation & Control Systems
+
+----- EEE -----
+
+-> 22BS2113	Numerical Methods and Complex variables
+	
+-> 22EE2111	Electrical Machines-I
+	
+-> 22EC2116	Analog Electronic Circuits
+	
+-> 22EE2112	Power System-I
+	
+-> 22EE2114	Electro Magnetic Fields	
+
+-> 22ME2216	Solid Mechanics & Hydraulic Machines
+	
+-> 22EE2211	Measurements and Instrumentation
+	
+-> 22EE2212	Electrical Machines–II
+	
+-> 22EC2216	Digital Electronics
+	
+-> 22EE2213	Power System-II
+
+-> 22MC0003	Constitution of India
+
+MBA 
+
+-> 22BM7111	Production & Operations Management
+	
+-> 22BM7112	Management Information Systems
+	
+-> 22BM7113	Business Analytics
+	
+-> 22BM7222	Strategic Management

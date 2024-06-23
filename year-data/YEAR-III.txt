@@ -1,0 +1,150 @@
+---> YEAR - III
+
+----- CSE (Artifical Intelligence & Machine Learning) -----
+
+-> 21AM3111	Machine Learning	
+
+-> 21AM3112	Software Engineering	
+
+-> 21AM3113	Artificial Intelligence	
+
+-> 21AM3211	Neural Networks & Deep Learning	
+
+-> 21AM3212	Natural Language Processing	
+
+-> 21DS3212	Web Technologies	
+
+----- COMPUTER SCIENCE & ENGINEERING -----
+
+-> 21CS3111	Computer Networks	
+
+-> 21CS3112	Software Engineering	
+
+-> 21CS3113	Web Technologies
+
+-> 21CS3211	Cryptography and Network Security	
+
+-> 21IT3211	Compiler Design
+
+-> 21CS3213	Machine Learning 
+
+----- CSE (DATA SCIENCE) -----
+
+-> 21CS3111	Computer Networks	
+
+-> 21DS3111	Introduction to Data Science	
+	
+-> 21DS3112	Artificial Intelligence
+
+-> 21CS3213	Machine Learning	
+
+-> 21DS3211	Knowledge Representation and Reasoning 	
+
+-> 21DS3212	Web Technologies
+
+----- CSE (CYBER SECURITY) -----
+
+-> 21CY3111	Cyber Security 	
+
+-> 21CY3112	Cryptography and Network Security 
+	
+-> 21CY3113	Formal Languages and Automata Theory
+
+-> 21CY3211	Ethical Hacking 	
+
+-> 21CY3212	Cyber Crime Investigation & Digital Forensics 	
+
+-> 21CS3213	Machine Learning 
+
+----- COMPUTER SCIENCE & BUSINESS SYSTEM -----
+
+-> 21CS3111	Computer Networks 	 
+
+-> 21BU3112	Marketing Management and Research
+
+-> 21CS3113	Web Technologies
+
+-> 21BU3211 	Design and Analysis of Algorithms 	
+
+-> 21CS3213 	Machine Learning	
+
+-> 21BU3213	Behavioral Economics
+
+----- INFORMATION TECHNOLOGY -----
+
+-> 21IT3111 	Design and Analysis of Algorithms 	
+
+-> 21CS3112 	Software Engineering 	
+
+-> 21CS3113 	Web Technologies
+
+-> 21CS3211 	Cryptography and Network Security 	
+
+-> 21IT3211 	Compiler Design 	
+
+-> 21CS3213 	Machine Learning
+
+----- CIVIL ENGINEERING -----
+
+-> 21CE3111 	Design of Reinforced Concrete Structures 
+
+-> 21CE3112 	Water Resource Engineering 	
+
+-> 21CE3113 	Soil Mechanics
+
+-> 21CE3211 	Transportation Engineering 	
+
+-> 21CE3212 	Design of Steel Structures 	
+
+-> 21CE3213 	Environmental Engineering
+
+----- ECE ----- 
+
+-> 21EC3111 	Linear Integrated Circuits and Applications 	
+
+-> 21EC3112 	Microprocessors & Microcontrollers 	
+
+-> 21EC3113 	Electromagnetic theory
+
+-> 21EC3211 	VLSI design 	
+
+-> 21EC3212 	Digital Signal Processing 
+	
+-> 21EC3213 	Data Communications and Networks 	
+
+-> 21EC3214 	Antennas and Wave Propagation
+
+----- ME ----- 
+
+-> 21ME3111 	Design of Machine Members–I 	
+
+-> 21ME3112 	Thermal Engineering–II 
+
+-> 21ME3113 	Machine Tools & Metrology
+
+-> 21ME3211 	Design of Machine Members-II 	
+
+-> 21ME3212 	Heat Transfer 	
+
+-> 21ME3213 	CAD/CAM 	
+
+-> 21ME3214 	Instrumentation and control system
+
+----- EEE -----
+
+-> 21EE3111	Power Electronics
+
+-> 21EE3112	Power Systems-II	
+
+-> 21EC3116	Signals and Systems
+
+-> 21MC0005	Indian Constitution
+
+-> 21MC0006	Aptitude and Logical Reasoning
+
+-> 21EE3211	Power Systems Analysis
+
+-> 21EE3212	Power System Protection
+
+-> 21EC3216	Microprocessors and Microcontrollers
+

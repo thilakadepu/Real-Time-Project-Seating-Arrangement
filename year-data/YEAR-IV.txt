@@ -1,0 +1,77 @@
+--> YEAR - IV
+
+----- CSE (Artifical Intelligence & Machine Learning) -----
+
+-> 19AM4111 	Neural Networks & Deep Learning 	
+
+-> 19AM4112 	Reinforcement Learning	
+
+-> 19MB4211 	Organizational Behaviour
+
+----- COMPUTER SCIENCE & ENGINEERING -----
+
+-> 19CS4111 	Machine Learning 	
+
+-> 19CS4112 	Data Mining
+
+-> 19MB4212 	Fundamentals of Management
+
+----- CSE (DATA SCIENCE) -----
+
+-> 19DS4111 	Predictive Analytics 	
+
+-> 19DS4112 	Web and Social Media Analytics
+
+-> 19MB4211 	Organizational Behavior
+
+----- CSE (CYBER SECURITY) -----
+
+
+
+----- COMPUTER SCIENCE & BUSINESS SYSTEM -----
+
+-> 19BU4111 	Marketing Management and Research 	
+
+-> 19BU4112 	Design Thinking
+
+-> 19BU4211 	Human Resource Management
+
+----- INFORMATION TECHNOLOGY -----
+
+-> 19CS4111 	Machine Learning 	
+
+-> 19IT4111 	Android Application Development
+
+-> 19MB4212 	Fundamentals of Management
+
+----- CIVIL ENGINEERING -----
+
+-> 19CE4111 	Design of Steel Structures 	
+
+-> 19CE4112 	Valuation
+
+-> 19MB4212 	Fundamentals of Management
+
+----- ECE ----- 
+
+-> 19EC4111 	Microwave and Radar Engineering 	
+
+-> 19EC4112 	VLSI Design
+
+-> 19MB4211 	Management Science
+
+----- ME ----- 
+
+-> 19ME4111 	Instrumentation and Control System 	
+
+-> 19ME4112 	CAD CAM
+
+-> 19MB4212 	Fundamentals of Management
+
+----- EEE -----
+
+-> 19MB4111 	Business Economics & Financial Analysis 	
+
+-> 19EE4112 	Power System Operation and Control
+
+-> 19MB4211 	Management Science

@@ -1,0 +1,159 @@
+---> YEAR - I
+
+CSE (Artifical Intelligence & Machine Learning) , COMPUTER SCIENCE & ENGINEERING , CSE (DATA SCIENCE) , CSE (CYBER SECURITY) , COMPUTER SCIENCE & BUSINESS SYSTEM , INFORMATION TECHNOLOGY
+
+-> 22BS1111	    Matrices and Calculus 
+
+-> 22BS1113	    Applied Physics 
+
+-> 22CS1113	    Programming for Problem Solving 
+
+-> 22HS1112	    English for Skill Enhancement 
+
+-> 22CS1156     Elements of Computer Science & Engineering 
+
+-> 22MC0002     Environmental Science 
+
+-> 22MC0001     Induction Program 
+
+-> 22BS1211     Ordinary Differential Equations and Vector Calculus 
+
+-> 22BS1212     Engineering Chemistry 
+	
+-> 22ME1255     Computer Aided Engineering Graphics 
+
+-> 22EE1214     Basic Electrical Engineering 
+
+-> 22EC1215     Electronic Devices and Circuits
+
+CIVIL ENGINEERING
+
+-> 22BS1111	Matrices and Calculus
+
+-> 22BS1113	Applied Physics 
+
+-> 22CS1114	C Programming and Data Structures
+
+-> 22HS1112	English for Skill Enhancement	
+
+-> 22CE1155	Elements of Civil Engineering	
+
+-> 22MC0002	Environmental Science	
+
+-> 22MC0001	Induction Program
+
+-> 22BS1211    Ordinary Differential Equations and Vector Calculus
+
+-> 22BS1212	Engineering Chemistry
+
+-> 22CE1214	Applied Mechanics
+
+-> 22CE1215	Surveying
+
+-> 22ME1255	Computer Aided Engineering Graphics
+	
+
+ECE 
+
+-> 22BS1111	Matrices and Calculus
+
+-> 22BS1113	Applied Physics 
+
+-> 22CS1115	C Programming for Engineers
+
+-> 22HS1112	English for Skill Enhancement	
+
+-> 22EC1155	Elements of Electronics and Communication Engineering	
+
+-> 22MC0002	Environmental Science	
+
+-> 22MC0001	Induction Program
+
+-> 22BS1211    Ordinary Differential Equations and Vector Calculus
+
+-> 22BS1212	Engineering Chemistry
+
+-> 22ME1255	Computer Aided Engineering Graphics
+
+-> 22EE1214	Basic Electrical Engineering
+
+-> 22EC1215	Electronic Devices and Circuits
+
+
+ME 
+
+-> 22BS1111	Matrices and Calculus
+
+-> 22BS1113	Applied Physics 
+
+-> 22CS1114	C Programming and Data Structures
+
+-> 22HS1112	English for Skill Enhancement	
+
+-> 22ME1155	Elements of Mechanical  Engineering
+
+-> 22MC0002	Environmental Science	
+
+-> 22MC0001	Induction Program
+
+-> 22BS1211    Ordinary Differential Equations and Vector Calculus
+
+-> 22BS1212	Engineering Chemistry
+
+-> 22ME1255	Computer Aided Engineering Graphics
+
+-> 22ME1214	Engineering Mechanics
+
+-> 22ME1215	Engineering Materials
+
+
+EEE
+
+-> 22BS1111	Matrices and Calculus
+
+-> 22BS1113	Applied Physics 
+
+-> 22CS1114	C Programming and Data Structures
+
+-> 22EE1113	Electrical Circuit Analysis – I
+
+-> 22EE1153	Elements of Electrical and Electronics Engineering
+
+-> 22MC0001	Induction Program
+
+-> 22BS1211 Ordinary Differential Equations and Vector Calculus
+
+-> 22BS1212	Engineering Chemistry
+
+-> 22ME1255	Computer Aided Engineering Graphics
+
+-> 22HS1212	English for Skill Enhancement
+
+-> 22EE1215	Electrical Circuit Analysis – II
+
+-> 22MC0002	Environmental Science	
+
+MBA 
+
+-> 22BM6111	Management and Organizational Behavior
+
+-> 22BM6112	Business Economics
+
+-> 22BM6113	Financial Reporting & Analysis
+	
+-> 22BM6114	Research Methodology and Statistical Analysis
+
+-> 22BM6115	Legal and Business Environment
+
+-> 22BM6221	Human Resource Management
+	
+-> 22BM6222	Marketing Management
+	
+-> 22BM6223	Financial Management
+	
+-> 22BM6224	Quantitative Analysis for Business Decisions
+	
+-> 22BM6225	Entrepreneurship and Design Thinking
+	
+-> 22BM6226	Logistics & Supply Chain Management
+	
