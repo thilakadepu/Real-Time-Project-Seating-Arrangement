@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Seating Arrangement</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width = device-width , initial-scale = 1.0">
+        <link rel="stylesheet" href="styles/styles-website.css">
+        <link rel="stylesheet" href="styles/table.css">
+    </head>
+    <body>
+        <div>
+            <div class="seating-arrangement-title">
+                SEATING ARRANGEMENT
+            </div>
+        </div>
+        <div class="branch-roll-no-input">
+            <div class="branch">
+                <label class="branch-label" for="branch">Branch</label>
+                <hr>
+                <div class="items">
+                    <select class="branch-select" name="branch" id="branch">
+                        <option id="select-branch" value="">-- SELECT --</option>
+                        <option value="CSM">CSE (Artificial Intelligence & Machine Learning)</option>
+                        <option value="CSE">Computer Science & Engineering</option>
+                        <option value="CSD">CSE (Data Science)</option>
+                        <option value="CSC">CSE (Cyber Security)</option>
+                        <option value="CSBS">Computer Science & Business System</option>
+                        <option value="CE">Civil Engineering</option>
+                        <option value="ECE">Electronics & Communication Engineering</option>
+                        <option value="EEE">Electrical & Electronics Engineering</option>
+                        <option value="IT">Information Technology</option>
+                        <option value="ME">Mechanical Engineering</option>
+                        <option value="MBA">Master of Business Administration</option>
+                    </select>
+                </div>
+            </div>
+            <div class="year-label">
+                <label class="branch-type-label" for="">Year</label>
+                <hr>
+                <div class="items">
+                <select name="branch-type" id="year">
+                    <option value="">-- SELECT --</option>
+                </select>
+                </div>
+            </div>
+            <div class="branch-type">
+                <label class="branch-type-label" for="branch-type">Type</label>
+                <hr>
+                <div class="items">
+                    <select name="branch-type" id="branch-type">
+                        <option selected value="">-- SELECT --</option>
+                    </select>
+                </div>
+            </div>
+            <div class="subject">
+                <label class="branch-type-label" for="branch-type" >Subject</label>
+                <hr>
+                <div class="items">
+                    <select class="subject-select" name="branch-type" id="subject">
+                        <option selected value="">-- SELECT --</option>
+                    </select>
+                </div>
+            </div>
+            <div class="roll-code-div">
+                <label class="branch-label" for="branch">Roll Code</label>
+                <hr>
+                <div class="items">
+                    <div class="roll-code">
+                    </div>
+                </div>
+            </div>
+            <div class="roll-no-entry">
+                <div class="roll-no-label">Roll Number</div>
+                <br>
+                <div class="items">
+                    <div class="from-to">
+                        <label for="from">From</label>
+                        <label for="to">To</label>
+                        <input class="input-box js-from-input" type="text">
+                        <input class="input-box js-to-input" type="text">
+                    </div>
+                </div>
+            </div>
+        </div>  
+        <p class="invalid-input">Invalid Input</p>
+        <button class="add-button js-add-button">Add</button>     
+        <div class="table-container">
+            <table class="table-content">
+                <thead>
+                    <tr>
+                        <th>S.No</th>
+                        <th>Branch</th>
+                        <th>Year</th>
+                        <th>Type</th>
+                        <th>Subject</th>
+                        <th class="col-roll-number" colspan="2">Roll Number</th>
+                    </tr>
+                    <tr class="head-2-col">
+                        <th></th>
+                        <th></th>
+                        <th></th>
+                        <th></th>
+                        <th></th>
+                        <th class="sub-col-roll-number">From</th>
+                        <th class="sub-col-roll-number">To</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="seating-input-container">
+            <div class="seating-information-container">
+                <div class="information-container">
+                    <p>Total Students</p>
+                    <input class="input-box-information css-disabling-pointer js-inserting-value">
+                </div>
+                <div class="information-container">
+                    <p>No of Rows in a Room</p>
+                    <input class="input-box-information js-room-rows" type="number">
+                </div>
+                <div class="information-container">
+                    <p>No of Columns in a Room</p>
+                    <input class="input-box-information js-room-columns" type="number">
+                </div>
+                <div class="information-container">
+                    <p>No of Required Rooms</p>
+                    <input class="input-box-information css-disabling-pointer js-required-rooms">
+                </div>
+                <p class="invalid-input invalid-input-room-container">Check the Details</p>
+            </div>
+            <a href="arrangement.html" target="_blank">
+                <button class="generate-button">
+                    Generate
+                </button>
+            </a>
+        </div>
+        <script type="module" src="scripts/script-website.js"></script>
+    </body>
+</html>

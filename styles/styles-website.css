@@ -1,0 +1,154 @@
+body{
+    margin-left: calc(2%);
+    margin-right: calc(2%);
+}
+
+select{
+    background-color: grey;
+    color: white;
+    padding: 6px 10px;
+    border-radius: 5px;
+    border: none;
+    flex: 1;
+}
+
+option{
+    padding: 12px 5px;
+}
+
+hr{
+    opacity: 0;
+}
+
+.seating-arrangement-title{
+    text-align: center;
+    font-size: 40px;
+    border-style: solid;
+    padding: 15px;
+}
+
+.branch-roll-no-input{
+    margin-top: 30px;
+    display: grid;
+    grid-template-columns: 1fr 0.3fr 0.5fr 1fr 0.5fr 0.9fr;  
+    column-gap: 25px;
+}
+
+.branch{
+    display: flex;
+    flex-direction: column;
+}
+
+.branch-label,
+.branch-type-label{
+    font-size: 18px;
+    font-weight: 700;
+}
+
+select{
+    margin-top: 25px;
+}
+
+.roll-code{
+    padding-top: 25px;
+    font-size: 20px;
+    font-weight: 700;
+    min-width: 80px;
+    margin-bottom: 20px;
+}
+
+.items{
+    height: 60px;
+    display: flex;
+}
+
+
+.from-to{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    row-gap: 10px;
+    margin-top: -12px;
+    margin-bottom: 6.5px;
+    padding-left: calc(25%);
+}
+
+.input-box{
+    width: calc(35%);
+}
+
+.roll-no-label{
+    font-size: 18px;
+    font-weight: 700;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.roll-no-entry {
+    min-width: 200px;
+    margin-left: -75px;
+}
+
+.subject option{
+    max-width: 200px;
+}
+
+.add-button{
+    margin-top: 20px;
+    margin-left: calc(50%);
+    background-color: black;
+}
+
+.invalid-input {
+    margin: 8px 0 0 0;
+    color: red;
+    font-size: 18px;
+    opacity: 0;
+}
+
+.js-invalid-input {
+    opacity:1;
+}
+
+.seating-input-container  {
+    margin-top: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: Arial;
+}
+
+.seating-information-container {
+    padding: 10px 80px 30px 60px;
+    border: 2px solid gray;
+}
+
+.seating-information-container div {
+    display: grid;
+    grid-template-columns: 1fr 50px;
+    font-size: 15px;
+    column-gap: 100px;
+    align-items: center;
+}
+
+.information-container {
+    margin: 15px 0 0 0;
+}
+
+.input-box-information {
+    width: 40px;
+    height: 10px;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.css-disabling-pointer {
+    pointer-events: none;
+}
+
+.generate-button {
+    margin-top: calc(2%);
+    background-color: black;
+    padding: 10px 20px;
+    font-size: 14px;
+}
