@@ -1,0 +1,53 @@
+.main-container {
+    justify-content: center;
+    display: grid;
+    row-gap: 100px;
+    max-width: max-content;
+}
+
+.room-container {
+    border: 0.5vh solid black;
+    margin: 5px;
+}
+
+.room-elements-container {
+    display: grid;
+    row-gap: 20px;
+}
+
+
+.room-number-container { 
+    padding: 18px;
+    border: 2px solid black;
+    font-size: 40px;
+    text-align: center;
+}
+
+.seating-container {
+    padding: 50px 20px;
+    height: 500px;
+    border: 2px solid black;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    row-gap: 20px;
+    column-gap: 10px;
+}
+
+.seat-container {
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-height: 30px;
+}
+
+.seat {
+    border: 2px solid black;
+    padding: 10px 30px;
+}
+
+.branch {
+    margin-top: 5px;
+    text-align: center;
+}
